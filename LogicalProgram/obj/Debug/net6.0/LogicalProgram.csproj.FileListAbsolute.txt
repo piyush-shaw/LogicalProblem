@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/bin/Debug/net6.0/LogicalProgram
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/bin/Debug/net6.0/LogicalProgram.deps.json
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/bin/Debug/net6.0/LogicalProgram.runtimeconfig.json
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/bin/Debug/net6.0/LogicalProgram.dll
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/bin/Debug/net6.0/LogicalProgram.pdb
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.AssemblyInfo.cs
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.dll
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/refint/LogicalProgram.dll
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.pdb
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/LogicalProgram.genruntimeconfig.cache
+/Users/piyushshaw/Projects/LogicalProgram/LogicalProgram/obj/Debug/net6.0/ref/LogicalProgram.dll
