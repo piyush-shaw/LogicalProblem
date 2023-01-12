@@ -1,16 +1,12 @@
 ﻿<Properties StartupConfiguration="{610115CE-3991-42BF-B225-B9B17C6DD018}|Default">
-  <MonoDevelop.Ide.ItemProperties.LogicalProgram PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="LogicalProgram/Program.cs">
     <Files>
-      <File FileName="LogicalProgram/Program.cs" Line="17" Column="40" />
+      <File FileName="LogicalProgram/Program.cs" Line="24" Column="23" />
       <File FileName="LogicalProgram/FibonacciSeries.cs" Line="8" Column="24" />
       <File FileName="LogicalProgram/PerfectNumber.cs" Line="11" Column="24" />
+      <File FileName="LogicalProgram/PrimeNumber.cs" Line="2" Column="14" />
+      <File FileName="LogicalProgram/ReverseNumber.cs" Line="17" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,4 +18,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LogicalProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
